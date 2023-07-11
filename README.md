@@ -13,22 +13,21 @@ Sendo feito com base na plataforma da Origamid.com
 
 <h1>Página Principal</h1>
 
-![image](https://github.com/C0nanT/grecia_escultura/assets/113317279/dd6c670c-77d2-4ea8-ba6e-0b617e009e56)
+![Captura da Web_11-7-2023_173831_127 0 0 1](https://github.com/C0nanT/grecia_escultura/assets/113317279/d5ea5c54-3f8c-4a44-b155-8752e275101c)
 
 <h1>Página de esculturas</h1>
 
-
-![Captura da Web_11-7-2023_172519_127 0 0 1](https://github.com/C0nanT/grecia_escultura/assets/113317279/a93d5aa3-3e18-41e4-99bb-61a988b12496)
+![Captura da Web_11-7-2023_173917_127 0 0 1](https://github.com/C0nanT/grecia_escultura/assets/113317279/fd294cfc-ecf6-42d2-bd5b-34d4ef8e68df)
 
 <h1>Página individual (existem 3 diferentes)</h1>
 
-![Captura da Web_11-7-2023_172815_127 0 0 1](https://github.com/C0nanT/grecia_escultura/assets/113317279/f6f56ce5-adaf-43c4-b9bf-2d5df1c382a0)
+![image](https://github.com/C0nanT/grecia_escultura/assets/113317279/0754454b-2da7-479f-a28b-5bae9bf8487c)
 
 <h1>Página de transporte</h1>
 
-![Captura da Web_11-7-2023_172847_127 0 0 1](https://github.com/C0nanT/grecia_escultura/assets/113317279/5d3cbd01-a0ad-4912-9192-b7c8ad973a22)
+![image](https://github.com/C0nanT/grecia_escultura/assets/113317279/290b7bb9-e6cc-46e9-862d-3a5078572300)
 
 <h1>Página de termos</h1>
 
-![Captura da Web_11-7-2023_172958_127 0 0 1](https://github.com/C0nanT/grecia_escultura/assets/113317279/01637c6c-e723-4cc1-a1ac-f2ac978ad794)
+![image](https://github.com/C0nanT/grecia_escultura/assets/113317279/ef2e08a0-ad5e-4571-b792-1e030a8c22f5)
 
