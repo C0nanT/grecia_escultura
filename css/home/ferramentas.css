@@ -1,0 +1,79 @@
+.ferramentas-bg {
+  background-color: var(--cor-11);
+  box-shadow: inset 0 80px var(--cor-0), inset 0 -80px var(--cor-0);
+}
+
+.ferramentas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.ferramentas-imagem img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: left;
+}
+
+.ferramentas-conteudo {
+  padding-top: 160px;
+  padding-bottom: 160px;
+}
+
+.ferramentas-conteudo > span {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.ferramentas-conteudo h2 {
+  margin-bottom: 32px;
+}
+
+.ferramentas-conteudo > p {
+  margin-bottom: 20px;
+}
+
+.ferramentas a {
+  margin-bottom: 80px;
+}
+
+.ferramentas-vantagens {
+  display: flex;
+  gap: 40px;
+}
+
+.ferramentas-vantagens h3 {
+  margin-bottom: 8px;
+  width: max-content;
+}
+
+.ferramentas-vantagens img {
+  width: 24px;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 800px) {
+  .ferramentas-bg {
+    box-shadow: initial;
+  }
+  .ferramentas {
+    grid-template-columns: 1fr;
+  }
+  .ferramentas-conteudo {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .ferramentas-imagem {
+    display: none;
+  }
+  .ferramentas a {
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 600px) {
+  .ferramentas-vantagens {
+    flex-direction: column;
+  }
+}

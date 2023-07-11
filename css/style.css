@@ -1,0 +1,28 @@
+@import "./global/global.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
+
+@import "./global/header.css";
+@import "./global/footer.css";
+
+/* Utilidades */
+@import "./utilidades/componentes.css";
+
+/* Home */
+@import "./home/introducao.css";
+@import "./home/ferramentas.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
+
+/* Esculturas */
+@import "./esculturas/esculturas-lista.css";
+@import "./esculturas/esculturas.css";
+@import "./escultura/escultura.css";
+
+/* Transporte */
+@import "./transporte/transporte.css";
+@import "./transporte/perguntas.css";
+@import "./transporte/vantagens.css";
+
+/* Termos */
+@import "./termos/termos.css";
