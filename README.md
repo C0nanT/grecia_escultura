@@ -1,6 +1,6 @@
 # Esculturas gregas
 
-<p> AINDA NÃO ESTÁ PRONTO / 11-07-2023 </p>
+<p> -- AINDA NÃO ESTÁ PRONTO / 11-07-2023 -- </p>
  <p> Home - OK </p>
  <p> Pag de esculturas - OK </p>
       Pag individual - OK </p>
@@ -30,4 +30,3 @@ Sendo feito com base na plataforma da Origamid.com
 <h1>Página de termos</h1>
 
 ![image](https://github.com/C0nanT/grecia_escultura/assets/113317279/ef2e08a0-ad5e-4571-b792-1e030a8c22f5)
-
