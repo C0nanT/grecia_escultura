@@ -30,3 +30,7 @@ Sendo feito com base na plataforma da Origamid.com
 <h1>Página de termos</h1>
 
 ![image](https://github.com/C0nanT/grecia_escultura/assets/113317279/ef2e08a0-ad5e-4571-b792-1e030a8c22f5)
+
+<h1>Página de Contato</h1>
+
+![image](https://github.com/C0nanT/grecia_escultura/assets/113317279/5372bedd-791c-4f9e-93e6-0e8cb072c85b)
