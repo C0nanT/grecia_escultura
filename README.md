@@ -1,6 +1,6 @@
 # Esculturas gregas
 
-<p> -- AINDA NÃO ESTÁ PRONTO / 14-07-2023 -- </p>
+<p> --- AINDA NÃO ESTÁ PRONTO / 14-07-2023 --- </p>
  <p> Home - OK </p>
  <p> Pag de esculturas - OK </p>
       Pag individual - OK </p>
