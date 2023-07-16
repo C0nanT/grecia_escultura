@@ -6,7 +6,7 @@
       Pag individual - OK </p>
  <p> Pag de transportes - OK </p>
  <p> Pag de termos - OK </p>
- <p> Pag de orçamento - Em produção </p>
+ <p> Pag de orçamento - OK </p>
  <p> Pag de contato - OK </p>
   
 Sendo feito com base na plataforma da Origamid.com
