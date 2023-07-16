@@ -1,19 +1,17 @@
 # Esculturas gregas
 
-<p> --- AINDA NÃO ESTÁ PRONTO / 14-07-2023 --- </p>
- <p> Home - OK </p>
- <p> Pag de esculturas - OK </p>
-      Pag individual - OK </p>
- <p> Pag de transportes - OK </p>
- <p> Pag de termos - OK </p>
- <p> Pag de orçamento - Em produção </p>
- <p> Pag de contato - OK </p>
+<p> --- Projeto concluído 16/07/23 --- </p>
+<p>Feito com: HTML e CSS</p>
   
-Sendo feito com base na plataforma da Origamid.com
+Com base na plataforma da Origamid.com
 
 <h1>Página Principal</h1>
 
 ![Captura da Web_11-7-2023_173831_127 0 0 1](https://github.com/C0nanT/grecia_escultura/assets/113317279/d5ea5c54-3f8c-4a44-b155-8752e275101c)
+
+<h1>Págima de Orçamento</h1>
+
+https://github.com/C0nanT/grecia_escultura/assets/113317279/e5bc46d1-6eb6-4c06-960e-ff502bc5a644
 
 <h1>Página de esculturas</h1>
 
