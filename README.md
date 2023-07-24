@@ -3,8 +3,9 @@
 <p> --- Projeto concluído 16/07/23 --- </p>
 <p>Feito com: HTML,CSS e JS</p>
 <p>24/07/23 - Estou adicionando JS em algumas partes do site</p>
+
   
-Com base na plataforma da Origamid.com
+Criado com base na plataforma da Origamid.com
 
 <h1>Página Principal</h1>
 
