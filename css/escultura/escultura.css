@@ -27,6 +27,7 @@
 .escultura-imagens img:first-child {
   min-width: 100%;
   min-height: 100%;
+  max-height: 736px;
 }
 
 .escultura-imagens img:nth-child(2) {
