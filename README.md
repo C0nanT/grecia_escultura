@@ -1,6 +1,6 @@
 # Esculturas gregas
 
-<p> --- 26/07/2023 --- Quase otimizações e animações com JS adicionadas no site</p>
+<p> --- 26/07/2023 --- Otimizações e animações com JS adicionadas no site</p>
 <p>Feito com: HTML,CSS e JS</p>
 
 
