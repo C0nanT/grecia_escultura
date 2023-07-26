@@ -1,8 +1,10 @@
 # Esculturas gregas
 
-<p> --- Projeto concluído 16/07/23 --- </p>
+<p> --- 26/07/2023 --- </p>
+
 <p>Feito com: HTML,CSS e JS</p>
-<p>24/07/23 - Estou adicionando JS em algumas partes do site</p>
+
+
 
   
 Criado com base na plataforma da Origamid.com
